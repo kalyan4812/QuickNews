@@ -19,6 +19,7 @@ Quick News is an android application helps users to discover latest trending sto
  - [RXJava](https://github.com/ReactiveX/RxAndroid)
  - [Navigation component](https://developer.android.com/guide/navigation)
  - [Material Design](https://material.io/develop/android)
+ - [Canvas](https://developer.android.com/reference/android/graphics/Canvas)
  
 
 The app is developed using native android(Java).App follows clean and neat MVVM architecture and customized caching (without paging libraries).App uses Rxjava opeartors 
