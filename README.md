@@ -1,7 +1,7 @@
 
 #  📰 **QuickNews**
          
-         News Feed App
+   News Feed App
 
 [![Platform](https://img.shields.io/badge/platform-android-blue.svg)](http://developer.android.com/index.html)
 ![Api Level](https://img.shields.io/badge/Min%20API%20Level-21-important)
