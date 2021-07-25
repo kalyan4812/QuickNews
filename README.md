@@ -26,19 +26,20 @@ Before you use the app,you have to accept the privacy policy,and auto start perm
 
 <table>
         <tr>
-          <td><img src = "https://user-images.githubusercontent.com/68738102/126861392-84d45057-ccb1-4b1c-980b-7d4ab8a85838.png" ></td>
-          <td><img src = "https://user-images.githubusercontent.com/68738102/126861459-cb4d3b37-6715-40d5-9628-0b6eb9604bbb.png" ></td>
-          <td><img src = "https://user-images.githubusercontent.com/68738102/126861430-9a6a7200-eee0-4a94-a750-0c396d60882a.png" ></td>
+          <td><img src = "https://user-images.githubusercontent.com/68738102/126889268-393e3866-7c74-4a67-a3f4-bf65dbb1602d.png" ></td>
+          <td><img src = "https://user-images.githubusercontent.com/68738102/126889280-4287b55c-b26d-4b25-96bb-ce1c3cd8e23c.png" ></td>
+          <td><img src = "https://user-images.githubusercontent.com/68738102/126889297-9c7a2052-09f4-41b7-b0b6-68cb377585f5.png" ></td>
+        </tr>
+     <tr>
+          <td><img src = "https://user-images.githubusercontent.com/68738102/126889309-2cfb2576-5aa6-4a10-8f99-76e2aacdb9fa.png" ></td>
+          <td><img src = "https://user-images.githubusercontent.com/68738102/126889280-4287b55c-b26d-4b25-96bb-ce1c3cd8e23c.png" ></td>
+          <td><img src = "https://user-images.githubusercontent.com/68738102/126889336-2f6852c7-070a-435f-9758-b8c2e8d5a3fc.png" ></td>
         </tr>
 </table>
-
-
-
-
-
 
 ## Maintainers and Developers
 This repository is owned and maintained by 
  * [Sai Kalyan](https://github.com/kalyan4812)
+
 
 
