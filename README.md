@@ -7,23 +7,28 @@
 ![Api Level](https://img.shields.io/badge/Min%20API%20Level-21-important)
 
 
-Jet Gps Share is an android application makes you to find the location of your friends using their mobile number.All you need is to ask your friend to add you in his friends list. Indirectly you can access a person location only if he/she allows you.This makes our app legal.
+Quick News is an android application helps users to discover latest trending stories from various news sources.It uses News api to fetch data from internet.
 
 ### The following libraries/Tools were used in this project:-
 
- - [MapBoxSdk](https://docs.mapbox.com/android/maps/guides/)
  - [Room](https://developer.android.com/jetpack/androidx/releases/room)
- - [Picasso](https://github.com/square/picasso)
- - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
- - [Volley](https://developer.android.com/training/volley)
- - [Lottie](https://lottiefiles.com/)
+ - [Glide](https://github.com/bumptech/glide)
+ - [ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel)
+ - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
+ - [Retrofit](https://square.github.io/retrofit/)
+ - [RXJava](https://github.com/ReactiveX/RxAndroid)
  - [Navigation component](https://developer.android.com/guide/navigation)
+ - [Material Design](https://material.io/develop/android)
+ 
 
-The app is developed using native android(Java) and PHP,MySql as backend. It is tightly coupled as it was developed as a project to learn Android Development.
+The app is developed using native android(Java).App follows clean and neat MVVM architecture and customized caching (without paging libraries).App uses Rxjava opeartors 
+to make efficient network calls.
 
 ### App ScreenShots 
 
-Before you use the app,you have to accept the privacy policy,and auto start permission is optional for the app, it allows you to upadte your loaction even if you are not using the app.
+* You can get the latest trending news on the news page,you can click on the article to read the complete news and also you can save them if you like the article.
+* You can view the saved articles on the saved page,you can delete your saved articles anytime by swiping.
+* Along with recommended articles ,you can also search for articles you want on the search page and you can read them.
 
 <table>
         <tr>
@@ -37,10 +42,6 @@ Before you use the app,you have to accept the privacy policy,and auto start perm
           <td><img src = "https://user-images.githubusercontent.com/68738102/126889336-2f6852c7-070a-435f-9758-b8c2e8d5a3fc.png" ></td>
         </tr>
 </table>
-
-
-
-
 
 
 
