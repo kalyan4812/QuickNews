@@ -32,10 +32,16 @@ Before you use the app,you have to accept the privacy policy,and auto start perm
         </tr>
      <tr>
           <td><img src = "https://user-images.githubusercontent.com/68738102/126889309-2cfb2576-5aa6-4a10-8f99-76e2aacdb9fa.png" ></td>
-          <td><img src = "https://user-images.githubusercontent.com/68738102/126889280-4287b55c-b26d-4b25-96bb-ce1c3cd8e23c.png" ></td>
+          <td><img src = "https://user-images.githubusercontent.com/68738102/126889358-c150b41d-ef11-44bb-a94a-425abf6f8cbb.png" ></td>
           <td><img src = "https://user-images.githubusercontent.com/68738102/126889336-2f6852c7-070a-435f-9758-b8c2e8d5a3fc.png" ></td>
         </tr>
 </table>
+
+
+
+
+
+
 
 ## Maintainers and Developers
 This repository is owned and maintained by 
